@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 按数字标号色值 -->
+    <color name="color1">#ffffff</color>
+    <color name="color2">#38b7ea</color>
+    <color name="color3">#f3f3f3</color>
+    <color name="color4">#333333</color>
+    <color name="color5">#7d7d7d</color>
+    <color name="color6">#dddddd</color>
+    <color name="color7">#fbfbfb</color>
+    <color name="color8">#cccccc</color>
+    <color name="color9">#777777</color>
+    <color name="color10">#fbba2f</color>
+    <color name="color11">#fd4311</color>
+    <color name="color12">#eeeeee</color>
+    <color name="color13">#888888</color>
+    <color name="color14">#999999</color>
+    <color name="color15">#16b0f8</color>
+    <color name="color16">#605334</color>
+    <color name="color17">#206885</color>
+    <color name="color18">#8a9fb8</color>
+    <color name="color19">#ea8d1f</color>
+    <color name="color20">#98e2ff</color>
+    <color name="color21">#ff8888</color>
+    <color name="color22">#fee295</color>
+    <color name="color23">#aa5b68</color>
+    <color name="color24">#905714</color>
+    <color name="color25">#eba595</color>
+    <color name="color26">#cb5c5c</color>
+    <color name="color27">#fce215</color>
+    <color name="color28">#77dddddd</color>
+    <color name="rl_blist1_bg">#88ffffff</color>
+    <color name="reset_blist1_color">#16b0f8</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+
+            <solid android:color="@color/rl_blist1_bg" />
+            <stroke android:color="@color/reset_blist1_color" android:width="3dp" />
+            <corners
+            android:radius="10dp"
+            />
+        </shape>
+    </item>
+</layer-list>

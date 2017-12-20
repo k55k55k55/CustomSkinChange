@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="text_margin">200dp</dimen>
+
+    <dimen name="text_size">20dp</dimen>
+
+    <integer name="skin_tv_circle_radues">150</integer>
+
+
+</resources>

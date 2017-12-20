@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="DrawablePadding">0dp</dimen>
+    <dimen name="text_margin_top">50dp</dimen>
+    <dimen name="skin_tv_circle_with">200dp</dimen>
+    <dimen name="skin_tv_circle_height">200dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <dimen name="text_view_margin_left">140dp</dimen>
+    <integer name="skin_tv_circle_radues">100</integer>
+
+
+</resources>
